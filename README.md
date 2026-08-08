@@ -41,9 +41,9 @@ The main objectives of this project are:
 sales-data-analysis/
 │
 ├── analysis.ipynb
-├── README.md
-└── data/
-    └── README.md
+├── sales_data_sample.scv
+└── README.md
+
 ```
 
 > The original dataset can be downloaded from the Kaggle source mentioned below.
